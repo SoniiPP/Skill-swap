@@ -20,7 +20,7 @@ function SideBar() {
   const menus = [
     { name: "Home", icon: FaHome, link: "/" },
     { name: "Match", icon: MdOutlineConnectWithoutContact, link: "user/Match" },
-    // { name: "chat", icon: IoChatboxEllipsesOutline, link: "user/Chat" },
+    { name: "chat", icon: IoChatboxEllipsesOutline, link: "user/Chat" },
     { name: "Calendar", icon: CiCalendar, link: "user/Calendar" },
     { name: "User", icon: CiUser, link: "user/profile" },
   ];
